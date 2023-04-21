@@ -1,7 +1,7 @@
 # Crystal polymorph selection mechanism of hard spheres hidden in the fluid
 by Willem Gispen, Gabriele M. Coli, Robin van Damme, C. Patrick Royall, and Marjolein Dijkstra
 
-This code repository accompagnies our paper published in [ACS Nano](https://doi.org/10.1021/acsnano.3c02182).
+This code repository accompagnies our paper published in [ACS Nano](https://doi.org/10.1021/acsnano.3c02182). This code is also available from [github.com/MarjoleinDijkstraGroupUU](github.com/MarjoleinDijkstraGroupUU).
 
 ## Abstract
 
@@ -12,7 +12,7 @@ This code repository accompagnies our paper published in [ACS Nano](https://doi.
 ## How to use this software
 
  * Install required python packages using the conda file `conda-ovito-freud.yml`
- * Install the *modified* Topological Cluster Classification algorithm (TCC) [1] python package from [here](https://github.com/WillemGispen/TCC/tree/exyz). Please see Malins A, Williams SR, Eggers J & Royall CP "Identification of Structure in Condensed Matter with the Topological Cluster Classification", J. Chem. Phys. (2013). **139** 234506 for more information about the TCC algorithm.
+ * Install the *modified* Topological Cluster Classification algorithm (TCC) [1] python package from TCC.zip or from [github](https://github.com/WillemGispen/TCC/tree/exyz). Please see Malins A, Williams SR, Eggers J & Royall CP "Identification of Structure in Condensed Matter with the Topological Cluster Classification", J. Chem. Phys. (2013). **139** 234506 for more information about the TCC algorithm.
 
  * Obtain nucleation trajectories (e.g. with `scripts.py.spontaneous_wca_nucleation`)
  * Preprocess the nucleation trajectory using `scripts.py.focus_nucleation_trajectory`. This script centers the nucleus in the simulation cell.
