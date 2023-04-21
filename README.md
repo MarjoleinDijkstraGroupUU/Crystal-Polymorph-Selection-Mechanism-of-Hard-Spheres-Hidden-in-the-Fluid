@@ -7,6 +7,7 @@ This code repository accompagnies our paper published in [ACS Nano](https://doi.
 
 > Nucleation plays a critical role in the birth of crystals and is associated with a vast array of phenomena such as protein crystallization and ice formation in clouds. Despite numerous experimental and theoretical studies, many aspects of the nucleation process, such as the polymorph selection mechanism in the early stages, are far from being understood. Here, we show that the hitherto unexplained excess of particles in a face-centred-cubic (fcc)-like environment, as compared to those in a hexagonal-close-packed (hcp)-like environment, in a crystal nucleus of hard spheres can be explained by the higher order structure in the fluid phase. We show using both simulations and experiments that in the metastable fluid phase  pentagonal bipyramids (PBs) --  clusters with fivefold symmetry known to be inhibitors of crystal nucleation -- transform into a different cluster, Siamese dodecahedra (SDs). These clusters are closely similar to an fcc subunit, which explains the higher propensity to grow fcc than hcp in hard spheres. We show that our crystallization and polymorph selection mechanism is generic for crystal nucleation from a dense, strongly correlated, fluid phase.
 
+![](toc-graphic.png)
 
 
 ## How to use this software
